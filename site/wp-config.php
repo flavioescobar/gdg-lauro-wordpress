@@ -21,8 +21,8 @@
 // ---------------------------------------------------------------------------
 
 // Alterando o caminho do diretório wp-content
-define( 'WP_CONTENT_URL', 'http://localhost/gdg-lauro/gdg-lauro-wordpress/site/app' );
-define( 'WP_CONTENT_DIR', 'E:\XAMPP\htdocs\gdg-lauro\gdg-lauro-wordpress\site\app' );
+define( 'WP_CONTENT_URL', 'http://localhost/gdg-lauro/gdg-lauro-wordpress/site/gdg' );
+define( 'WP_CONTENT_DIR', 'E:\XAMPP\htdocs\gdg-lauro\gdg-lauro-wordpress\site\gdg' );
 
 // Modo debug
 define('WP_DEBUG', true); // Ativando o modo debug
