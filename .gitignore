@@ -1,1 +1,2 @@
-wp-config.php
+# A linha abaixo está comentada por motivos didáticos, porém é recomendado não versionar o arquivo wp-config.php por questões de segurança.
+#site/wp-config.php
